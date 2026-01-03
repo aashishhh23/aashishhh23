@@ -1,4 +1,7 @@
-Hey !
+Hi, I'm Aashish 👋 
+🎓 3rd‑year BTech student at LNCT Bhopal 
+💻 Full‑stack Web Developer | MERN Stack Enthusiast 
+⚡ Passionate about building scalable, recruiter‑friendly business websites and real‑world LMS platforms.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashishhh_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashishhh23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashish8803568@gmail.com) 
 
